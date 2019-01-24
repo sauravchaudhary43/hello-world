@@ -1,4 +1,3 @@
-# hello-world
-sample code
+# maven-project
 
-hello this is my sample edit code first
+Simple Maven Project
